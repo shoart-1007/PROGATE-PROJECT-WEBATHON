@@ -1,0 +1,98 @@
+.intro{
+    height:600px;
+    background-image: url(https://img.freepik.com/free-vector/abstract-colorful-flow-shapes-background_23-2148253847.jpg?size=626&ext=jpg);
+    background-size:cover;
+    
+    text-align: center;
+    font-weight: 900px;
+    margin-top:0px;
+}
+h1{
+    color:rgb(133, 0, 173);
+    font-size: 50px;
+}
+.content{
+    height:1450px;
+    background-image: url(https://undesigns.net/wp-content/uploads/2018/02/Material-Design-Background-Undesigns-00.jpg);
+    background-size:cover;
+   
+}
+
+.content h3 {
+    border:4px solid rgb(255, 145, 0);
+    padding:10px;
+    margin-left:auto;
+    margin-right: auto;
+    text-align: center;
+    background-color:orange;
+    border-radius: 5px;
+    width:200px;
+    margin-top: 35px;
+    font-size: 25px;
+    
+}
+.content p {
+    text-align: center;
+    text-shadow: goldenrod;
+    
+    color:blanchedalmond;
+    padding-bottom: 4px;
+    font-size: 20px;
+    font-weight: bold;
+        
+}   
+.end {
+     height:100px;
+     background-color:rgb(238, 13, 88);
+     background-size: contain;
+     margin-top: 0px;
+}
+.educ h3 {
+    margin-top: 0px;
+}
+.content li {
+    background-color: midnightblue;
+    color:mintcream;
+    padding:3px;
+    margin:15px 0 auto;
+    border:1px solid midnightblue;
+    width:150px;
+    border:1px solid yellow;
+    border-radius:10px;
+    text-align: center;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.end{
+    font-size: 20px;
+    color: ivory;
+    text-align: center;
+    margin-top: 0 auto;
+    font-weight: bold;
+    padding-top: 5px;
+}
+.intro img {
+    width:250px;
+    height:300px;
+    border:3px solid rgb(137, 0, 165);
+    border-radius: 10px;
+    
+}
+.intro h2 {
+    font-size: 50px;
+    border-bottom: 2px solid rgb(0, 183, 255);
+    width:fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    color:cornflowerblue;
+}
+.intro p {
+    color:cornsilk;
+}
+title {
+    font-family: 'Times New Roman';
+}
+body {
+    font-family: cursive;
+}
